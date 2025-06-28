@@ -1,8 +1,8 @@
  # PERSONAL WEB PROFILE
 
-This Web Profile is an interactive, 3D-enhanced personal portfolio built using modern web technologies like React, Vite, Tailwind CSS, and 
+This Web Profile is an interactive, 3D-enhanced personal portfolio built using modern web technologies like 
 
-@react-three/fiber with physics powered by Rapier and stunning visuals via drei and meshline.
+React, Vite, Tailwind CSS, and @react-three/fiber with physics powered by Rapier and stunning visuals via drei and meshline.
 
 #
 
