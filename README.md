@@ -42,7 +42,9 @@ React, Vite, Tailwind CSS, and @react-three/fiber with physics powered by Rapier
 
 # RESULT
 
-![sentot web profile](https://github.com/user-attachments/assets/568cb0a7-b562-4f51-a4f0-4b7761c1d88c)
+preview by vercel
+
+![sentot web profile2](https://github.com/user-attachments/assets/5ec278ad-8889-4e02-ae58-f7f93b5172b6)
 
 
 https://vercel.com/sentotabs-projects/sentot-web-profile
