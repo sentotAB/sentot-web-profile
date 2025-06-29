@@ -52,30 +52,30 @@ const Contact = () => {
 
       {/* Info Cards */}
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 text-center">
-        <div className="flex flex-col items-center">
+        <div className="bg-gray-900 p-4 rounded-md w-full max-w-lg shadow-lg space-y-4 flex flex-col items-center">
           <BiMailSend className="h-12 w-12 text-gray-200 mb-2" />
           <h3 className="font-semibold text-xl">Email</h3>
           <p className="text-gray-400">sentotalibasah27@gmail.com</p>
         </div>
-        <div className="flex flex-col items-center">
+
+        <div className="bg-gray-900 p-4 rounded-md w-full max-w-lg shadow-lg space-y-4 flex flex-col items-center">
           <HiLocationMarker className="h-12 w-12 text-red-500 mb-2" />
           <h3 className="font-semibold text-xl">Address</h3>
           <p className="text-gray-400">KELAPA GADING</p>
           <p className="text-gray-400">JAKARTA UTARA</p>
         </div>
-        <div className="flex flex-col items-center">
+
+        <div className="bg-gray-900 p-4 rounded-md w-full max-w-lg shadow-lg space-y-4 flex flex-col items-center">
           <FaGithub className="h-12 w-12 text-black mb-2" />
           <h3 className="font-semibold text-xl">GitHub</h3>
           <a
             href="https://github.com/sentotAB"
             target="_blank"
             rel="noopener noreferrer"
-            className="hover:text-blue-400 text-gray-400"
-          >
-            @sentotAB
-          </a>
+            className="hover:text-blue-400 text-gray-400">@sentotAB</a>
         </div>
-        <div className="flex flex-col items-center">
+
+        <div className="bg-gray-900 p-4 rounded-md w-full max-w-lg shadow-lg space-y-4 flex flex-col items-center">
           <FaWhatsapp className="h-12 w-12 text-green-400 mb-2" />
           <h3 className="font-semibold text-xl">WhatsApp</h3>
           <p className="text-gray-400">0859-2058-7936</p>

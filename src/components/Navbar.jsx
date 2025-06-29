@@ -11,16 +11,15 @@ const Navbar = () => {
 
   return (
     <header className="sticky top-0 z-50 bg-gradient-to-r from-blue-500 via-gray-900 to-gray-500 text-white shadow-md">
-      {/* Logo Section */}
-      <div className="absolute top-4 left-4 z-10">
+     {/*  Logo Section */}
+      {/* <div className="absolute top-3 left-20 z-10">
         <Link
-          to="/"
-          className="text-xl sm:text-sm bg-black px-2 py-1 rounded hover:bg-black"
-        >
+          to="/" className="text-2xl sm:text-xl hover:bg-black">
           HOME
         </Link>
-      </div>
+      </div> */}
 
+    
       {/* Hamburger Icon */}
       <div
         className="absolute top-4 right-4 z-20 flex items-center sm:hidden cursor-pointer"
@@ -35,7 +34,14 @@ const Navbar = () => {
 
       {/* Desktop Menu */}
       <nav className="flex justify-center items-center px-4 py-4">
-        <ul className="hidden sm:flex space-x-8 uppercase text-sm tracking-widest">
+        <ul className="hidden sm:flex space-x-8 uppercase text-l tracking-widest">
+        <li>
+            <Link
+              to="/" className=" hover:text-blue-300">
+              Home
+            </Link>
+          </li>
+
           <li>
             <Link to="/MyProfile" className="hover:text-blue-300">
               My Profile
