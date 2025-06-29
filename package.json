@@ -13,6 +13,8 @@
     "@react-three/drei": "^10.3.0",
     "@react-three/fiber": "^9.1.2",
     "@react-three/rapier": "^2.1.0",
+    "emailjs-com": "^3.2.0",
+    "framer-motion": "^12.19.2",
     "meshline": "^3.3.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",

@@ -2,7 +2,7 @@ body,
 html {
   margin: 0;
   padding: 0;
-  background-image: url("./assets/images/bg.jpg");
+  background-image: url("/images/bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   font-family: "Poppins", sans-serif;
