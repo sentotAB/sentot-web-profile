@@ -4,6 +4,10 @@ This Web Profile is an interactive, 3D-enhanced personal portfolio built using m
 
 React, Vite, Tailwind CSS, and @react-three/fiber with physics powered by Rapier and stunning visuals via drei and meshline.
 
+![image](https://github.com/user-attachments/assets/da6c0e3a-794e-4099-b3fd-7884a297e822)
+
+
+
 #
 
 # FEATURES
